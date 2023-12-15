@@ -1,21 +1,21 @@
 {
-"data": [
-{
-"estadistica_id": 1,
-"nombre_torneo": "Torneo la Pintana 2023",
-"nombre_equipo_1": "Lions Club",
-"nombre_equipo_2": "Soccer Club",
-"dia": "14",
-"mes": "Enero",
-"año": "2024",
-"posesion_1": 50.9,
-"acierto_pase_1": 30,
-"aereos_1": 20,
-"posesion_2": 45.8,
-"acierto_pase_2": 25.9,
-"aereos_2": 15,
-"imagen_equipo_1": "https://github.com/mjarancibiasuazo/equipos-futbol/raw/08b245009852bce8828ae69685232c2fc55e76d0/equipo-2.png",
-"imagen_equipo_2": "https://github.com/mjarancibiasuazo/equipos-futbol/raw/08b245009852bce8828ae69685232c2fc55e76d0/equipo-5.png"
-},
-]
+    "data": [
+        {
+            "estadistica_id": 1,
+            "nombre_torneo": "Torneo la Pintana 2023",
+            "nombre_equipo_1": "Lions Club",
+            "nombre_equipo_2": "Soccer Club",
+            "dia": "14",
+            "mes": "Enero",
+            "año": "2024",
+            "posesion_1": 50.9,
+            "acierto_pase_1": 30,
+            "aereos_1": 20,
+            "posesion_2": 45.8,
+            "acierto_pase_2": 25.9,
+            "aereos_2": 15,
+            "imagen_equipo_1": "https://github.com/mjarancibiasuazo/equipos-futbol/raw/08b245009852bce8828ae69685232c2fc55e76d0/equipo-2.png",
+            "imagen_equipo_2": "https://github.com/mjarancibiasuazo/equipos-futbol/raw/08b245009852bce8828ae69685232c2fc55e76d0/equipo-5.png"
+        }
+    ]
 }
